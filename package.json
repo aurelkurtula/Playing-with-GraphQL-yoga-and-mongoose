@@ -1,0 +1,16 @@
+{
+  "name": "devTOtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.16.9",
+    "mongoose": "^5.4.0"
+  }
+}
